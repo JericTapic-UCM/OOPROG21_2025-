@@ -19,6 +19,8 @@ this(destination, DEFAULT_CITY, DEFAULT_MODE);
 }
 public DebugTrip(String destination, String departure)
 {
+  this.destination;
+  this.departure;
 }
 public DebugTrip(String destination, String departure, String mode)
 {
